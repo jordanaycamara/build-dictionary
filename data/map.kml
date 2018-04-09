@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pokemon Go New Castle Gym Map</name>
+    <description/>
+    <Style id="icon-1713-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1713-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1713-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1713-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1713-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0288D1-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Regional Channels</name>
+      <Placemark>
+        <name>#new-castle</name>
+        <styleUrl>#poly-0288D1-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.3598404,41.0482882,0
+                -80.3859329,40.9679743,0
+                -80.3093719,40.9734181,0
+                -80.320015,41.0425917,0
+                -80.3598404,41.0482882,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Standard Gyms</name>
+      <Placemark>
+        <name>Forgotten Bell</name>
+        <description><![CDATA[Latitude: 40.989297<br>Longitude: -80.329455]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.989297</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.329455</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.329455,40.989297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chapel Jubilee</name>
+        <description><![CDATA[Latitude: 41.010882<br>Longitude: -80.338934]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.010882</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.338934</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.338934,41.010882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Church </name>
+        <description><![CDATA[Latitude: 40.998078<br>Longitude: -80.337684]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.998078</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.337684</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.337684,40.998078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Four Brothers Mural</name>
+        <description><![CDATA[Latitude: 40.999118<br>Longitude: -80.340996]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.999118</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.340996</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.340996,40.999118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Castle Amphitheatre Fountain</name>
+        <description><![CDATA[Latitude: 40.99992<br>Longitude: -80.342879]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.99992</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.342879</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.342879,40.99992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Judes Episcopal Church</name>
+        <description><![CDATA[Latitude: 41.002587<br>Longitude: -80.344258]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.002587</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.344258</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.344258,41.002587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Temple Hadar Isreal</name>
+        <description><![CDATA[Latitude: 41.011004<br>Longitude: -80.337165]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.011004</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.337165</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.337165,41.011004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Family Worship Center of New Castle</name>
+        <description><![CDATA[Latitude: 40.999703<br>Longitude: -80.348364]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.999703</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.348364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.348364,40.999703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Civilian Conservation Corps Statue</name>
+        <description><![CDATA[Latitude: 40.977598<br>Longitude: -80.320153]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.977598</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.320153</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.320153,40.977598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jesus Light Church Of The World</name>
+        <description><![CDATA[Latitude: 40.985737<br>Longitude: -80.345614]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.985737</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.345614</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.345614,40.985737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Sister of Liberty</name>
+        <description><![CDATA[Latitude: 40.997476<br>Longitude: -80.344445]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.997476</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.344445</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.344445,40.997476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Castle Public Library</name>
+        <description><![CDATA[Latitude: 41.001551<br>Longitude: -80.344164]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.001551</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.344164</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.344164,41.001551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Cascade Park Gate House</name>
+        <description><![CDATA[Latitude: 40.978003<br>Longitude: -80.318917]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.978003</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.318917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.318917,40.978003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoyt Institute of Fine Arts</name>
+        <description><![CDATA[Latitude: 41.01259<br>Longitude: -80.344613]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.01259</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.344613</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.344613,41.01259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dewey Avenue Holiness Church</name>
+        <description><![CDATA[Latitude: 41.008514<br>Longitude: -80.324432]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.008514</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.324432</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.324432,41.008514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Vitus</name>
+        <description><![CDATA[Latitude: 40.989882<br>Longitude: -80.345473]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.989882</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.345473</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.345473,40.989882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darlington Park Caboose</name>
+        <description><![CDATA[Latitude: 40.972678<br>Longitude: -80.375188]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.972678</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.375188</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.375188,40.972678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oak Park Cemetery Chapel</name>
+        <description><![CDATA[Latitude: 41.016894<br>Longitude: -80.33052]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.016894</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.33052</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.33052,41.016894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Last Supper</name>
+        <description><![CDATA[Latitude: 41.021009<br>Longitude: -80.324956]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.021009</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.324956</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.324956,41.021009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stone Oak Park Cemetery Sign</name>
+        <description><![CDATA[Latitude: 41.019691<br>Longitude: -80.327774]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.019691</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.327774</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.327774,41.019691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Lord's Prayer Tablet]]></name>
+        <description><![CDATA[Latitude: 41.023922<br>Longitude: -80.321968]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.023922</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.321968</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.321968,41.023922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Castle Flag Pole</name>
+        <description><![CDATA[Latitude: 41.044483<br>Longitude: -80.352354]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>41.044483</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.352354</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.352354,41.044483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Park Gyms (EX Potential)</name>
+    </Folder>
+    <Folder>
+      <name>EX Confirmed</name>
+      <Placemark>
+        <name>Union Workers Bridge Monument </name>
+        <description><![CDATA[Latitude: 40.978131<br>Longitude: -80.322502]]></description>
+        <styleUrl>#icon-1713-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.978131</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.322502</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.322502,40.978131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCC Flag Pole</name>
+        <description><![CDATA[Latitude: 40.97772<br>Longitude: -80.322448]]></description>
+        <styleUrl>#icon-1713-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Latitude">
+            <value>40.97772</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.322448</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.322448,40.97772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

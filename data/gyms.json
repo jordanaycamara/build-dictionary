@@ -1,0 +1,209 @@
+[
+  {
+    "gymId": "451557",
+    "gymName": "Four Brothers Mural",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.999118,
+      "longitude": -80.340996
+    }
+  },
+  {
+    "gymId": "49653667",
+    "gymName": "Union Workers Bridge Monument ",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.978131,
+      "longitude": -80.322502
+    }
+  },
+  {
+    "gymId": "49653668",
+    "gymName": "Saint Vitus",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.989882,
+      "longitude": -80.345473
+    }
+  },
+  {
+    "gymId": "6529766",
+    "gymName": "Jesus Light Church Of The World",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.985737,
+      "longitude": -80.345614
+    }
+  },
+  {
+    "gymId": "6529776",
+    "gymName": "Dewey Avenue Holiness Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.008514,
+      "longitude": -80.324432
+    }
+  },
+  {
+    "gymId": "6529786",
+    "gymName": "Family Worship Center of New Castle",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.999703,
+      "longitude": -80.348364
+    }
+  },
+  {
+    "gymId": "6529799",
+    "gymName": "Old Cascade Park Gate House",
+    "gymInfo": {
+      "gymDescription": "Original entrance to cascade park. ",
+      "latitude": 40.978003,
+      "longitude": -80.318917
+    }
+  },
+  {
+    "gymId": "6529803",
+    "gymName": "Civilian Conservation Corps Statue",
+    "gymInfo": {
+      "gymDescription": "Chapter 125 New Castle, Pennsylvania 2000.",
+      "latitude": 40.977598,
+      "longitude": -80.320153
+    }
+  },
+  {
+    "gymId": "6529810",
+    "gymName": "CCC Flag Pole",
+    "gymInfo": {
+      "gymDescription": "Civilian Conservation Corps chapter 125\nDedicated Aug. 1, 1998. ",
+      "latitude": 40.97772,
+      "longitude": -80.322448
+    }
+  },
+  {
+    "gymId": "6529828",
+    "gymName": "Little Sister of Liberty",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.997476,
+      "longitude": -80.344445
+    }
+  },
+  {
+    "gymId": "6529831",
+    "gymName": "New Castle Amphitheatre Fountain",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.99992,
+      "longitude": -80.342879
+    }
+  },
+  {
+    "gymId": "6529837",
+    "gymName": "St Judes Episcopal Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.002587,
+      "longitude": -80.344258
+    }
+  },
+  {
+    "gymId": "6529843",
+    "gymName": "New Castle Public Library",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.001551,
+      "longitude": -80.344164
+    }
+  },
+  {
+    "gymId": "6529846",
+    "gymName": "Old Church ",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.998078,
+      "longitude": -80.337684
+    }
+  },
+  {
+    "gymId": "6529849",
+    "gymName": "Oak Park Cemetery Chapel",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.016894,
+      "longitude": -80.33052
+    }
+  },
+  {
+    "gymId": "6529850",
+    "gymName": "Stone Oak Park Cemetery Sign",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.019691,
+      "longitude": -80.327774
+    }
+  },
+  {
+    "gymId": "6529857",
+    "gymName": "The Last Supper",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.021009,
+      "longitude": -80.324956
+    }
+  },
+  {
+    "gymId": "6529859",
+    "gymName": "Temple Hadar Isreal",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.011004,
+      "longitude": -80.337165
+    }
+  },
+  {
+    "gymId": "6529861",
+    "gymName": "Chapel Jubilee",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.010882,
+      "longitude": -80.338934
+    }
+  },
+  {
+    "gymId": "6529862",
+    "gymName": "Hoyt Institute of Fine Arts",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.01259,
+      "longitude": -80.344613
+    }
+  },
+  {
+    "gymId": "6529872",
+    "gymName": "The Lord\u0026#039;s Prayer Tablet",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.023922,
+      "longitude": -80.321968
+    }
+  },
+  {
+    "gymId": "6529878",
+    "gymName": "Forgotten Bell",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.989297,
+      "longitude": -80.329455
+    }
+  },
+  {
+    "gymId": "824647",
+    "gymName": "Darlington Park Caboose",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.972678,
+      "longitude": -80.375188
+    }
+  }
+]
